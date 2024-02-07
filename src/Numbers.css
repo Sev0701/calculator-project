@@ -1,0 +1,23 @@
+.btn {
+    font-size: 30px;
+    margin-left: 7px;
+    margin-top: 5px;
+    width: 60px;
+    height: 60px;
+}
+
+.Numbers {
+    margin-left: 10px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-top: 30px;
+    width: 60px;
+}
+
+.board {
+    text-align: center;
+}
+
+.equal {
+    width: 130px;
+}
